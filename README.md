@@ -1,4 +1,4 @@
-#Omnifood Restaurant 
+# Omnifood Restaurant 
 
 Coded the front-end of the website with HTML5, CSS3, Bootstrap, and jQuery 
 
